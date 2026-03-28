@@ -68,4 +68,4 @@ elif opcion == "Pie":
     st.pyplot(fig)
 
 st.markdown("---")
-st.markdown("© Luz Eliana Martínez")
+st.markdown("© Juan Jose Abello")
